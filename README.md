@@ -9,6 +9,7 @@ Instrukcja uruchomienia projektu:
 6. Wklej kolejno polecenia:
 
   Add-Migration 001 -OutputDir "Data/Migrations"
+  
   Update-Database
 
 8. Uruchom projekt.
